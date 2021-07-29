@@ -6,6 +6,7 @@ public class ListPractice {
 
     public static void main(String[] args) {
         //adding one item
+        //adding second time
     }
 
 }
