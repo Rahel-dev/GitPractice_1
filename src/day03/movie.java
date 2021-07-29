@@ -1,5 +1,7 @@
 package day03;
 
 public class movie {
-    //the spouse cam in and watch the movie untill 20 mnt
+// after they have some friendly discussion
+//they agree
+//they solve their issues
 }
